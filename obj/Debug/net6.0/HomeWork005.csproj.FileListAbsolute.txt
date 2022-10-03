@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Виктор\Учеба Geekbrains\C#seminar5\HomeWork005\obj\Debug\net6.0\HomeWork005.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Виктор\Учеба Geekbrains\C#seminar5\HomeWork005\obj\Debug\net6.0\HomeWork005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Виктор\Учеба Geekbrains\C#seminar5\HomeWork005\obj\Debug\net6.0\HomeWork005.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Виктор\Учеба Geekbrains\C#seminar5\HomeWork005\obj\Debug\net6.0\HomeWork005.AssemblyInfo.cs
+C:\Users\user\Desktop\Виктор\Учеба Geekbrains\C#seminar5\HomeWork005\obj\Debug\net6.0\HomeWork005.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Виктор\Учеба Geekbrains\C#seminar5\HomeWork005\bin\Debug\net6.0\HomeWork005.exe
+C:\Users\user\Desktop\Виктор\Учеба Geekbrains\C#seminar5\HomeWork005\bin\Debug\net6.0\HomeWork005.deps.json
+C:\Users\user\Desktop\Виктор\Учеба Geekbrains\C#seminar5\HomeWork005\bin\Debug\net6.0\HomeWork005.runtimeconfig.json
+C:\Users\user\Desktop\Виктор\Учеба Geekbrains\C#seminar5\HomeWork005\bin\Debug\net6.0\HomeWork005.dll
+C:\Users\user\Desktop\Виктор\Учеба Geekbrains\C#seminar5\HomeWork005\bin\Debug\net6.0\HomeWork005.pdb
+C:\Users\user\Desktop\Виктор\Учеба Geekbrains\C#seminar5\HomeWork005\obj\Debug\net6.0\HomeWork005.dll
+C:\Users\user\Desktop\Виктор\Учеба Geekbrains\C#seminar5\HomeWork005\obj\Debug\net6.0\refint\HomeWork005.dll
+C:\Users\user\Desktop\Виктор\Учеба Geekbrains\C#seminar5\HomeWork005\obj\Debug\net6.0\HomeWork005.pdb
+C:\Users\user\Desktop\Виктор\Учеба Geekbrains\C#seminar5\HomeWork005\obj\Debug\net6.0\HomeWork005.genruntimeconfig.cache
+C:\Users\user\Desktop\Виктор\Учеба Geekbrains\C#seminar5\HomeWork005\obj\Debug\net6.0\ref\HomeWork005.dll
